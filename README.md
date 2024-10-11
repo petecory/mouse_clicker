@@ -77,4 +77,4 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Created by [Your Name](https://github.com/your-username) – because sometimes, life just needs more clicking.
+Created by [Cory Peterson](https://github.com/petecory) – because sometimes, life just needs more clicking.
